@@ -13,14 +13,14 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260117.0",
     "typescript": "^5.9.3",
-    "vite": "^7.3.6",
-    "vitest": "^4.1.11",
+    "vite": "^7.3.7",
+    "vitest": "^4.1.12",
     "wrangler": "^4.126.0"
   },
   "pnpm": {
     "overrides": {
       "undici": "7.29.1",
-      "vite": "7.3.6",
+      "vite": "7.3.7",
       "rollup": "^4.63.0",
       "postcss": "^8.5.26",
       "picomatch": "^4.0.7",
